@@ -1,0 +1,6 @@
+TENANCY_OCID     = "<tenancy-id>"
+USER_OCID        = "<user-id>"
+PRIVATE_KEY_PATH = "<ssh-key-path>"
+FINGERPRINT      = "<fingerprint>"
+REGION           = "<region>"
+AVAILABILITY_DOMAIN = "<availability-domain>"
